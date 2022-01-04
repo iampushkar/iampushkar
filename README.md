@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 # Hello Everyone!👋
 
-My name is Manish Pushkar. I am a Backend Engineer. I am from India, currently in Bengaluru and working at Gartner.
+My name is Manish Pushkar. I am a Software Engineer from India, currently working at Gartner.
 
 ## &#x270d; Hobby
 
-Apart from coding , I also make Youtube Videos related to Tech, Productivity and Lifestyle.
+I write code, read books and mentor folks who are aspiring Software Engineers.
 
 ## 🔧 Languages & Tools
 <p align='left'>
