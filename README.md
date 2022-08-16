@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
+![Header](https://free4kwallpapers.com/uploads/originals/2021/11/30/dragon-wallpaper.jpg)
 
 # Hello Everyone!👋
 
