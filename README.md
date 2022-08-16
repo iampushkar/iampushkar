@@ -65,7 +65,7 @@ I write code, read books and mentor folks who are aspiring Software Engineers.
 <p align="left">
 <a href="https://twitter.com/ManishPushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ManishPushkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m4manishpushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m4manishpushkar" height="30" width="40" /></a>
-<a href="https://instagram.com/manishpushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishpushkar" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/manishpushkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishpushkar" height="30" width="40" /></a> -->
 
 
 
