@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hello Everyone!👋
 
-My name is Manish Pushkar. I am a Software Engineer from India, currently working at Gartner.
+My name is Manish Pushkar. I am a Software Engineer from India.
 
 ## &#x270d; Hobby
 
