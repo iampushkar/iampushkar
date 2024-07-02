@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello Everyone!👋
-
 My name is Manish Pushkar. I am a Software Engineer from India.
-
-## 🔧 Languages
-<p align='left'>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
 
 
 ## &#x1f4c8; GitHub Stats
